@@ -5,7 +5,7 @@
   - 1) 출처 링크 2) 소스의 날짜 3) 간단한 요약 
 
 # 1st Article
-  <a href =  https://www.aitimes.com/news/articleView.html?idxno=149737>
+  <a href =  "https://www.aitimes.com/news/articleView.html?idxno=149737">
   
   
 # 2nd Article
